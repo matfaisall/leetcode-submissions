@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build:valid" : "npx tsc src/medium/0003-longest-string-without-repeating-characters.ts --outDir dist/medium",
+    "build": "tsc"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
