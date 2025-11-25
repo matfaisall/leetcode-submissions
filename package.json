@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "build:valid" : "npx tsc src/medium/0003-longest-string-without-repeating-characters.ts --outDir dist/medium",
+    "build:valid": "npx tsc src/medium/0003-longest-string-without-repeating-characters.ts --outDir dist/medium",
     "build": "tsc",
-    "run": "npx ts-node src/easy/0520-detectCapital.ts" 
+    "run": "npx ts-node src/easy/0215-add-strings.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
